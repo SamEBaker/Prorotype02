@@ -1,5 +1,5 @@
 # Prorotype02
- Play:  
+ Play:  https://samebaker.github.io/Prorotype02/
 
  Game loop 
 While timer is running 
